@@ -1,10 +1,10 @@
-@import url("/assets/left-container/nav.css");
-@import url("/assets/left-container/playlists.css");
-@import url("/assets/middle-container/account.css");
-@import url("/assets/middle-container/about.css");
-@import url("/assets/middle-container/projects.css");
-@import url("/assets/right-container/activity.css");
-@import url("/assets/bottom-container/bottom.css");
+@import url("assets/left-container/nav.css");
+@import url("assets/left-container/playlists.css");
+@import url("assets/middle-container/account.css");
+@import url("assets/middle-container/about.css");
+@import url("assets/middle-container/projects.css");
+@import url("assets/right-container/activity.css");
+@import url("assets/bottom-container/bottom.css");
 
 
 html {
