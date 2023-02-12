@@ -1,0 +1,46 @@
+.projects-header {
+  text-align: start;
+  color: white;
+  font-size: 2em;
+  margin: 10px 0px ;
+}
+
+.projects-image {
+  width: 175px;
+  height: 175px;
+  border-radius: 19%;
+  margin: 5px;
+
+}
+
+.projects-card {
+  background-color: rgba(48,48,48,0.8);
+  border: 1px solid rgba(41, 41, 41, 1);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 10px auto;
+
+}
+
+.projects-title {
+  color: white;
+  font-size: 1em;
+  margin: 0px 20px;
+}
+
+.projects-desription {
+  color: rgba(255,255,255,0.5);
+  margin: 10px 20px;
+}
+
+.projects {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.projects-card:hover{
+  background-color: rgba(80,80,80,0.8)
+}

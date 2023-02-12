@@ -1,0 +1,84 @@
+.nav-icon {
+  width: 25px;
+  height: 25px;
+  filter: invert(100%);
+
+}
+
+.nav-item {
+  color: white;
+  opacity: 0.6;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.nav-item > p {
+  padding-left: 10px;
+}
+
+
+
+
+.actions-icon {
+  width: 15px;
+  height: 15px;
+
+}
+
+.actions-item {
+  color: white;
+  opacity: 0.6;
+}
+
+.actions-item {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+
+.actions-item > p {
+  padding-left: 10px;
+}
+
+.actions {
+  margin-top: 30px;
+
+}
+
+
+.create-icon {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 5px;
+  padding: 5px;
+}
+.liked-icon {
+  filter: invert(100);
+  padding: 5px;
+  border-radius: 5px;
+  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgb(208, 240, 64) 100%);
+}
+
+.episodes-icon {
+  filter: invert(100);
+  padding: 5px;
+  border-radius: 5px;
+  background-color: rgb(247, 4, 247);
+}
+
+.playlists {
+  border-top: 1px solid rgba(255, 255, 255, 0.2)
+}
+
+.nav-item:hover {
+  opacity: 1;
+}
+
+.actions-item:hover {
+  opacity: 1;
+}

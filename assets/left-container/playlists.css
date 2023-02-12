@@ -1,0 +1,14 @@
+.playlists > p {
+  color: white;
+  opacity: 0.5;
+  font-weight: 300;
+}
+
+.playlists {
+  height: 50vh;
+  overflow: auto;
+}
+
+.playlists > p:hover {
+  opacity: 1;
+}
